@@ -1,4 +1,9 @@
-How To Run
+Requirement
+s(CASP) query-driven ASP solver: available at s(CASP) GitLab page.
 
-1. Clone this repo.
-3. Run `python main.py` and start chat.
+OpenAI Python package with secret key in environmental path: The Python package can be installed by pip install openai
+
+How To Run
+Clone this repo.
+(optional) Prepare your own knowledge base follow the format of data/knowledge.pl and cover it.
+Run python main.py and start chat.
